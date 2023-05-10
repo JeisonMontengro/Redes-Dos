@@ -31,9 +31,13 @@
    Ip = 192.168.10.10/30 
    <br>
    Dirección de Red = 192.168.10.8/30
+
    Direccion de Broadcast = 192.168.10.11
+
    Host Minimo = 192.168.10.9
+
    Host Maximo= 192.168.10.10
+   
  <li>¿Cuantos clientes puede tener la sub red 172.16.0.0/22?.</li> 
  <li>¿Que clase y tipo de dirección es 10.10.10.0/24?.</li> 
    Es de clase A y es de tipo Privada
