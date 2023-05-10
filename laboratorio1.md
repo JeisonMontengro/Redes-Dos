@@ -28,7 +28,8 @@
   
  <ol type="a"> 
  <li>¿Cual es la dirección de red y de broadcast de un host que tiene una ip 192.168.10.10/30 .?</li> 
-   Ip = 192.168.10.10/30
+   Ip = 192.168.10.10/30 
+   <br>
    Dirección de Red = 192.168.10.8/30
    Direccion de Broadcast = 192.168.10.11
    Host Minimo = 192.168.10.9
