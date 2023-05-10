@@ -44,7 +44,7 @@
 
    Es de clase A y es de tipo Privada
  <li>¿Que información se puede inferir de la dirección 169.254.255.200/26?.</li> 
- 
+
    Se puede inferir que es de clase B porque su primer octeto esta en el rango de 128 a 191 y es de tipo publica
  </ol> 
   
@@ -52,11 +52,11 @@
  |Parámetro||Valor| 
  |--|:--:|--:| 
  |Número de adaptadores Físicos|-->|3| 
- |Número de adaptadores Virtuales|-->|7| 
- |Tipo de Adaptador principal|-->|Wi-fi| 
- |Fabricante del Adaptador principal|-->|Liteon Technology Corporation| 
- |Código MAC del fabricante|-->|3C-A0-67| 
- |MAC|-->|3C-A0-67-E8-D8-77| 
+ |Número de adaptadores Virtuales|-->|1| 
+ |Tipo de Adaptador principal|-->|Ethernet| 
+ |Fabricante del Adaptador principal|-->|Realke PCle Family Controller| 
+ |Código MAC del fabricante|-->|| 
+ |MAC|-->|1C-BF-C0-35-CF-C6| 
   
  >Nota: Para obtener los parámetros de la red, usaremos los comandos [ipconfig][10], [ifconfig][8], [getmac][9]. 
   
@@ -65,14 +65,14 @@
  |Parámetro|Valor| 
  |--|--:| 
  |_Subnet_|192.168.254.0/24| 
- |IPv4|192.168.254.104| 
+ |IPv4|192.168.1.43| 
  |Subnet Mask decimal|24| 
  |Subnet Mask octetos|255.255.255.0| 
  |Número de direcciones de Host|254| 
- |Rango de direcciones de Host|192.168.254.1-254| 
- |IP Broadcast|192.168.254.255| 
- |Server DHCP|192.168.254.254| 
- |Server DNS|8.8.8.8| 
+ |Rango de direcciones de Host|108.177.13.188| 
+ |IP Broadcast|192.168.1.255| 
+ |Server DHCP|192.168.1.1| 
+ |Server DNS|8.20.247.20| 
   
  >Nota: Para obtener los parámetros de la red, usaremos el comando [ipconfig][10] o [ifconfig][8]. 
   
