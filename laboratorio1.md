@@ -28,6 +28,7 @@
   
  <ol type="a"> 
  <li>¿Cual es la dirección de red y de broadcast de un host que tiene una ip 192.168.10.10/30 .?</li> 
+
    Ip = 192.168.10.10/30 
    
    Dirección de Red = 192.168.10.8/30
@@ -39,9 +40,11 @@
    Host Maximo= 192.168.10.10
 
  <li>¿Cuantos clientes puede tener la sub red 172.16.0.0/22?.</li> 
- <li>¿Que clase y tipo de dirección es 10.10.10.0/24?.</li> 
+ <li>¿Que clase y tipo de dirección es 10.10.10.0/24?.</li>
+
    Es de clase A y es de tipo Privada
  <li>¿Que información se puede inferir de la dirección 169.254.255.200/26?.</li> 
+ 
    Se puede inferir que es de clase B porque su primer octeto esta en el rango de 128 a 191 y es de tipo publica
  </ol> 
   
