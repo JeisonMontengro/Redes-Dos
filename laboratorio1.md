@@ -89,10 +89,10 @@
  ## 7. [Capacidad del canal](#) ✔ 
  |Servidor|Ping/ms|Down/MB|Up/MB| 
  |--|:--:|--:|--:| 
- |[speed test][1]|Tiempo de Espera Agotado para Esta Solicitud||| 
- |[Netflix][2]|Tiempo de Espera Agotado para Esta Solicitud||| 
- |[Claro][3]|Tiempo de Espera Agotado para Esta Solicitud||| 
- |[nperf][4]|164 ms||| 
+ |[speed test][1]|Tiempo de Espera Agotado para Esta Solicitud|9 Mbps|6 Mbps| 
+ |[Netflix][2]|Tiempo de Espera Agotado para Esta Solicitud|20 Mb|40 Mb| 
+ |[Claro][3]|Tiempo de Espera Agotado para Esta Solicitud|13.4 Mbps|13.9 Mbps| 
+ |[nperf][4]|164 ms|14.27 Mb/s|13.41 Mb/s| 
   
   
   
