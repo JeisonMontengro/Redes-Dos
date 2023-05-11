@@ -94,12 +94,12 @@
  ## 6. [Retardo de la red](#) ✔ 
  |Servidor|IP|Tiempo promedio/ms| 
  |--|--|--| 
- |DNS Google|8.8.8.8|| 
- |DNS Cloudflare|1.1.1.1|| 
- |OpenDNS||| 
- |Alternate DNS||| 
- |DNS Quad9||| 
- |AdGuard DNS||| 
+ |DNS Google|8.8.8.8|11ms| 
+ |DNS Cloudflare|1.1.1.1|78ms| 
+ |OpenDNS|208.67.222.222|95 ms| 
+ |Alternate DNS|208.67.220.220|113 ms| 
+ |DNS Quad9|9.9.9.9|125 ms| 
+ |AdGuard DNS|94.140.14.14|80 ms| 
   
  >Nota: Para calcular el retardo de la red, usaremos el protocolo ICMP/[ping][12] con al menos 10 paquetes. 
   
@@ -107,10 +107,10 @@
  ## 7. [Capacidad del canal](#) ✔ 
  |Servidor|Ping/ms|Down/MB|Up/MB| 
  |--|:--:|--:|--:| 
- |[speed test][1]|39|96.4|69.2| 
- |[Netflix][2]|14|78|67| 
- |[Claro][3]|13|74|31| 
- |[nperf][4]|6.7|93.6|54.98| 
+ |[speed test][1]|Tiempo de Espera Agotado para Esta Solicitud|96.4|69.2| 
+ |[Netflix][2]|Tiempo de Espera Agotado para Esta Solicitud|78|67| 
+ |[Claro][3]|Tiempo de Espera Agotado para Esta Solicitud|74|31| 
+ |[nperf][4]|164 ms|93.6|54.98| 
   
  >Nota: Para calcular el retardo de la red, usaremos el protocolo HTTP via servicio WEB. 
   
