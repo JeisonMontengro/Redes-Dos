@@ -64,7 +64,7 @@
  ## 4. [Caracterización de la red](#) ✔ 
  |Parámetro|Valor| 
  |--|--:| 
- |_Subnet_|192.168.254.0/24| 
+ |_Subnet_|| 
  |IPv4|192.168.1.43| 
  |Subnet Mask decimal|24| 
  |Subnet Mask octetos|255.255.255.0| 
@@ -80,12 +80,12 @@
  ## 5. [Caracterización de la puerta de enlace](#) ✔ 
  |Parámetro|Valor| 
  |--|--:| 
- |Número de Entradas en la tabla ARP |11| 
- |IPv4 Gateway|192.168.254.254| 
- |MAC Gateway|3C-A0-67-E8-D8-77| 
- |ISP|Dobleclick Software E Ingeneria| 
- |[IP Publica][5]|138.0.90.4| 
- |Sistema Autónomo|AS264646| 
+ |Número de Entradas en la tabla ARP |8| 
+ |IPv4 Gateway|26.0.0.1| 
+ |MAC Gateway|| 
+ |ISP|Sistemas palacios| 
+ |[IP Publica][5]|8.242.185.2| 
+ |Sistema Autónomo|| 
   
   
  >Nota: Para obtener los parámetros de la red, usaremos el comando [arp][11] y algún servicio web/HTTP. 
