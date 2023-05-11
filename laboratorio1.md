@@ -107,10 +107,10 @@
  ## 7. [Capacidad del canal](#) ✔ 
  |Servidor|Ping/ms|Down/MB|Up/MB| 
  |--|:--:|--:|--:| 
- |[speed test][1]|Tiempo de Espera Agotado para Esta Solicitud|96.4|69.2| 
- |[Netflix][2]|Tiempo de Espera Agotado para Esta Solicitud|78|67| 
- |[Claro][3]|Tiempo de Espera Agotado para Esta Solicitud|74|31| 
- |[nperf][4]|164 ms|93.6|54.98| 
+ |[speed test][1]|Tiempo de Espera Agotado para Esta Solicitud||| 
+ |[Netflix][2]|Tiempo de Espera Agotado para Esta Solicitud||| 
+ |[Claro][3]|Tiempo de Espera Agotado para Esta Solicitud||| 
+ |[nperf][4]|164 ms||| 
   
  >Nota: Para calcular el retardo de la red, usaremos el protocolo HTTP via servicio WEB. 
   
@@ -118,18 +118,18 @@
  ## 8. [Distancia desde el host](#) ✔ 
  |Servidor|Ping/ms|Numero de Saltos| 
  |--|:--:|--:| 
- |google.com|14|10| 
- |GMail.com|15|9| 
- |YouTube.com|14|10| 
- |dns.google|15|9| 
- |aws.amazon.com|154|17| 
- |portal.azure.com|13|11| 
- |login.live.com|88|22| 
- |Facebook.com|120|11| 
- |c.ns.WhatsApp.net|151|12| 
- |claro.com.co|151|12| 
- |platzi.com|122|11| 
- |rappi.com.co|184|30| 
+ |google.com|144 ms|10| 
+ |GMail.com|83 ms|9| 
+ |YouTube.com|102 ms|11| 
+ |dns.google|73 ms|12| 
+ |aws.amazon.com|32 ms|20| 
+ |portal.azure.com|156 ms|28| 
+ |login.live.com|209 ms|23| 
+ |Facebook.com|414 ms|13| 
+ |c.ns.WhatsApp.net|1478 ms|2| 
+ |claro.com.co|Tiempo de espera agotado para esta solicitud|3| 
+ |platzi.com|933 ms|No se puede resolver el nombre del sistema de destino Platzi.com.| 
+ |rappi.com.co|Tiempo de espera agotado para esta solicitud|2| 
   
  >Nota: Para calcular el retardo de la red, usaremos el comando ICMP/[tracert][13]. 
   
