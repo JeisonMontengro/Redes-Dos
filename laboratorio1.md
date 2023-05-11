@@ -2,25 +2,7 @@
 <p><code>Laboratorio 1 de redes 2</code></p>
 <p>Realizado <code>Jeison Daneiro Montenegro Cuasialpud</code>
 
-## 1. [Configurar el entorno de trabajo](#) ✔ 
- 1. Instalar [VSCode][1_1] 
- 2. Instalar [Git][1_2] 
- 3. Crear una cuenta en [github][1_3] 
- 4. Crear el repositorio en Github llamado <code>Redes-dos</code> 
- 5. Instalar la [extension de github][1_4] para VScode 
- 6. Agregar <code>Usuario</code> y <code>Correo</code> globalmente para Git. 
- 7. Clonar el repositorio remoto desde VScode. 
-  
- bash 
- # Para agregar Usuario y Contraseña a GIT 
- $ git config --global user.name "John Doe" 
- $ git config --global user.email johndoe@example.com 
-  
-  
- [1_1]:https://code.visualstudio.com/download 
- [1_2]:https://git-scm.com/download/win 
- [1_3]:https://github.com/ 
- [1_4]:https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github 
+
   
   
   
@@ -58,7 +40,7 @@
  |Código MAC del fabricante|-->|| 
  |MAC|-->|1C-BF-C0-35-CF-C6| 
   
- >Nota: Para obtener los parámetros de la red, usaremos los comandos [ipconfig][10], [ifconfig][8], [getmac][9]. 
+ 
   
   
  ## 4. [Caracterización de la red](#) ✔ 
@@ -74,7 +56,7 @@
  |Server DHCP|192.168.1.1| 
  |Server DNS|8.20.247.20| 
   
- >Nota: Para obtener los parámetros de la red, usaremos el comando [ipconfig][10] o [ifconfig][8]. 
+ 
   
   
  ## 5. [Caracterización de la puerta de enlace](#) ✔ 
@@ -88,7 +70,7 @@
  |Sistema Autónomo|| 
   
   
- >Nota: Para obtener los parámetros de la red, usaremos el comando [arp][11] y algún servicio web/HTTP. 
+ 
   
   
  ## 6. [Retardo de la red](#) ✔ 
@@ -101,7 +83,7 @@
  |DNS Quad9|9.9.9.9|125 ms| 
  |AdGuard DNS|94.140.14.14|80 ms| 
   
- >Nota: Para calcular el retardo de la red, usaremos el protocolo ICMP/[ping][12] con al menos 10 paquetes. 
+ 
   
   
  ## 7. [Capacidad del canal](#) ✔ 
@@ -112,7 +94,7 @@
  |[Claro][3]|Tiempo de Espera Agotado para Esta Solicitud||| 
  |[nperf][4]|164 ms||| 
   
- >Nota: Para calcular el retardo de la red, usaremos el protocolo HTTP via servicio WEB. 
+  
   
   
  ## 8. [Distancia desde el host](#) ✔ 
@@ -131,7 +113,7 @@
  |platzi.com|933 ms|No se puede resolver el nombre del sistema de destino Platzi.com.| 
  |rappi.com.co|Tiempo de espera agotado para esta solicitud|2| 
   
- >Nota: Para calcular el retardo de la red, usaremos el comando ICMP/[tracert][13]. 
+  
   
  ## 9. [Diagrama de Red](#) ✔ 
  - Realice un diagrama topológico de la red que le ofrece conectividad a internet. 
