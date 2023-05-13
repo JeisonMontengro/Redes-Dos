@@ -129,9 +129,15 @@
   
  ## 10. [Preguntas de conocimiento](#) ✔ 
  1. Cual es la dirección de red y de broadcast de un host que tiene una ip 192.168.10.10/30. 
-    Ip = 192.168.10.10/30.
-    Direccion de Red = 192.168.10.8/30  
+
+    Ip = 192.168.10.10/30
+
+    Direccion de Red = 192.168.10.8/30 
+
     Direccion de broadcast = 192.168.10.11
+
     Host Minimo = 192.168.10.9
+
     Host Maximo = 192.168.10.10
+    
  1. Incluya los saltos conocidos incluyendo el equipo de borde de su ISP.
