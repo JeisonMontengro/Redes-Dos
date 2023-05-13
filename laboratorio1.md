@@ -125,6 +125,7 @@
  2. Tenemos una red en dos inicialmente secundaria en la casa administrada por un Router Tp-link (TL-WR940N), con el cual abarca una mayor amplitud para la señal.
  3. Tenemos un router el cual es de la empresa que es un router G-Pon el cual da aceso de red a internet y se conecta a la nat del poste por medio de fibra-optica.
  - Incluya los saltos conocidos incluyendo el equipo de borde de su ISP. 
+ ![Insertando Imagen](saltos.png)
   
  ## 10. [Preguntas de conocimiento](#) ✔ 
  1. Cual es la dirección de red y de broadcast de un host que tiene una ip 192.168.10.10/30. 
