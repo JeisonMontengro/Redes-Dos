@@ -117,7 +117,7 @@
   
  ## 9. [Diagrama de Red](#) ✔ 
  - Realice un diagrama topológico de la red que le ofrece conectividad a internet. 
-  Diagrama
+  
  ![Insertando Imagen](diagrama.png)
  - Incluya todos los detalles de la red de area local a la que se encuentra conectado. 
  - Incluya los saltos conocidos incluyendo el equipo de borde de su ISP. 
