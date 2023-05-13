@@ -37,7 +37,7 @@
  |Número de adaptadores Virtuales|-->|1| 
  |Tipo de Adaptador principal|-->|Ethernet| 
  |Fabricante del Adaptador principal|-->|Realke PCle Family Controller| 
- |Código MAC del fabricante|-->|| 
+ |Código MAC del fabricante|-->|28-83-28-D4-67-43| 
  |MAC|-->|1C-BF-C0-35-CF-C6| 
   
  
@@ -46,7 +46,7 @@
  ## 4. [Caracterización de la red](#) ✔ 
  |Parámetro|Valor| 
  |--|--:| 
- |_Subnet_|| 
+ |_Subnet_|192.168.10.0/24| 
  |IPv4|192.168.1.43| 
  |Subnet Mask decimal|24| 
  |Subnet Mask octetos|255.255.255.0| 
@@ -64,10 +64,10 @@
  |--|--:| 
  |Número de Entradas en la tabla ARP |8| 
  |IPv4 Gateway|26.0.0.1| 
- |MAC Gateway|| 
+ |MAC Gateway|98-da-c4-63-c7-8e| 
  |ISP|Sistemas palacios| 
  |[IP Publica][5]|8.242.185.2| 
- |Sistema Autónomo|| 
+ |Sistema Autónomo|AS284643| 
   
   
  
@@ -89,9 +89,9 @@
  ## 7. [Capacidad del canal](#) ✔ 
  |Servidor|Ping/ms|Down/MB|Up/MB| 
  |--|:--:|--:|--:| 
- |[speed test][1]|Tiempo de Espera Agotado para Esta Solicitud|9 Mbps|6 Mbps| 
- |[Netflix][2]|Tiempo de Espera Agotado para Esta Solicitud|20 Mb|40 Mb| 
- |[Claro][3]|Tiempo de Espera Agotado para Esta Solicitud|13.4 Mbps|13.9 Mbps| 
+ |[speed test][1]|25|9 Mbps|6 Mbps| 
+ |[Netflix][2]|32|20 Mb|40 Mb| 
+ |[Claro][3]|17|13.4 Mbps|13.9 Mbps| 
  |[nperf][4]|164 ms|14.27 Mb/s|13.41 Mb/s| 
   
   
@@ -109,9 +109,9 @@
  |login.live.com|209 ms|23| 
  |Facebook.com|414 ms|13| 
  |c.ns.WhatsApp.net|1478 ms|2| 
- |claro.com.co|Tiempo de espera agotado para esta solicitud|3| 
- |platzi.com|933 ms|No se puede resolver el nombre del sistema de destino Platzi.com.| 
- |rappi.com.co|Tiempo de espera agotado para esta solicitud|2| 
+ |claro.com.co|423 ms|3| 
+ |platzi.com|933 ms|18| 
+ |rappi.com.co|356 ms|2| 
   
   
   
